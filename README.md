@@ -14,17 +14,17 @@ Implement an employee database program in C. And the program will read in employ
 ## Screenshots
 
 ## Setup
-IDE:vscode
-Run with command line in terminal. 
-1.gcc readfile.c -o readfile
-2.readfile.exe input.txt
+* IDE:vscode
+* Run with command line in terminal. 
+* 1.gcc readfile.c -o readfile
+* 2.readfile.exe input.txt
 
 ## Features
-1.Print the Database
-2.Lookup employee by ID
-3.Lookup employee by last name
-4.Add an Employee
-5.Quit
+* 1.Print the Database
+* 2.Lookup employee by ID
+* 3.Lookup employee by last name
+* 4.Add an Employee
+* 5.Quit
 
 ## Status
 This project is: In progress.
